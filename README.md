@@ -27,7 +27,7 @@ Es útil para controlar la facturación y evitar que validen y procesen presupue
 ## Configuración
 
 - Accede a la configuración del módulo desde el menú de módulos.
-- Activa la opción "Desactivar botón VALIDAR" si deseas impedir la validación manual. Si no, simplemente se muestran advertencias durante todo el proceso.
+- Activa la opción "Desactivar botón VALIDAR" si deseas impedir la validación. Si no, simplemente se muestran advertencias durante todo el proceso.
 - Si el cliente está marcado como bloqueado, se impedirá validar el pedido incluso con confirmación.
 
 ## Soporte
