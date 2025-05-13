@@ -30,7 +30,7 @@ class modClientBlocker extends DolibarrModules
         $this->const_name = 'MAIN_MODULE_'.strtoupper($this->name);
         $this->picto = 'globalten@clientblocker';
         $this->editor_name = 'Alvaro H'; // Opcional
-        $this->editor_url = 'https://globalten.es'; // Opcional
+        //$this->editor_url = ''; // Opcional
         
 
 		$this->module_parts = array(
