@@ -2,7 +2,7 @@
 
 **Versión:** 1.0.2  
 **Compatible con:** Dolibarr 15 a 21+  
-**Autor:** Alvaro H – Globalten Technology S.L.  
+**Autor:** Alvaro H  
 **Licencia:** GPL v3+
 
 ## Descripción
@@ -33,4 +33,4 @@ Es útil para controlar la facturación y evitar que validen y procesen presupue
 ## Soporte
 
 Este módulo se distribuye tal cual.  
-Para soporte personalizado o mejoras, contacta con **Alvaro H – Globalten Technology S.L.**
+Para soporte personalizado o mejoras, contacta con **Alvaro H**
