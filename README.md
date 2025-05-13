@@ -1,6 +1,6 @@
 # Bloquear Cliente (Client Blocker) para Dolibarr
 
-**Versión:** 1.0.1  
+**Versión:** 1.0.2  
 **Compatible con:** Dolibarr 15 a 21+  
 **Autor:** Alvaro H – Globalten Technology S.L.  
 **Licencia:** GPL v3+
@@ -14,7 +14,7 @@ Es útil para controlar la facturación y evitar que validen y procesen presupue
 
 - Añade un campo extra ("Cliente Bloqueado") en la ficha del cliente.
 - Muestra avisos visuales en los pedidos si el cliente está bloqueado.
-- Opción para desactivar el botón de **VALIDAR** en los presupuestos, pedidos y facturas.
+- Opción para desactivar **VALIDACION** en los presupuestos, pedidos y facturas.
 - Bloquea completamente la validación del proceso si se intenta confirmar.
 - Traducciones disponibles en español e inglés.
 
