@@ -1,0 +1,10 @@
+Module104000Name=BLOCK CUSTOMER
+ClientBlockerWarningTitle=Customer BLOCKED
+ClientBlockerOrderBlockedMessage=Do not process sales for this customer until further notice.
+ClientBlockerButtonBlocked=Validation blocked
+ClientBlockerCannotValidate=The customer is BLOCKED. <strong>DO NOT VALIDATE THE SALE</strong>.
+ClientBlockerCannotProcess=The customer is blocked. <strong>DO NOT PROCESS THE SALE</strong>.
+ClientBlockerBlockOrderValidation=Disable VALIDATE button for sales (proposals, orders and invoices) of blocked customers.
+ClientBlockerModuleDescription=Blocks sales (proposals, orders and invoices) for customers marked as 'Blocked Customer'.
+ClientBlockerSetup=Blocked Customer Configuration
+ClientBlockerSetupPageInfo=This module prevents the creation and validation of sales (proposals, orders and invoices) for customers marked as blocked in their customer record.
