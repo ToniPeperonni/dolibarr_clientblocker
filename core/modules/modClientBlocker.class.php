@@ -28,7 +28,7 @@ class modClientBlocker extends DolibarrModules
 
         $this->version = '1.0.2';
         $this->const_name = 'MAIN_MODULE_'.strtoupper($this->name);
-        $this->picto = 'globalten@clientblocker';
+        $this->picto = 'candado@clientblocker';
         $this->editor_name = 'Alvaro H'; // Opcional
         //$this->editor_url = ''; // Opcional
         
